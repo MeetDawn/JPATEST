@@ -1,11 +1,8 @@
 package com.itchao.studyjpa.test;
 
 import com.itchao.studyjpa.POJO.User;
-import com.itchao.studyjpa.StudyjpaApplication;
 import com.itchao.studyjpa.dao.UserDao;
 import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Test;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.jdbc.AutoConfigureTestDatabase;

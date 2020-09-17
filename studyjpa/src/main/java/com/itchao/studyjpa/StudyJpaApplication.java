@@ -7,14 +7,15 @@ import org.springframework.boot.web.embedded.tomcat.TomcatServletWebServerFactor
 import org.springframework.boot.web.servlet.server.ConfigurableServletWebServerFactory;
 import org.springframework.context.annotation.Bean;
 
+
 /**
  * @author Mr.L
  */
 @SpringBootApplication
-public class StudyjpaApplication {
+public class StudyJpaApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(StudyjpaApplication.class, args);
+        SpringApplication.run(StudyJpaApplication.class, args);
     }
 
     @Bean
